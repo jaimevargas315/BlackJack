@@ -12,4 +12,4 @@ Try out this object oriented game and see how much money you could win!
 Your starting amount is $500
 
 - Ruby version: `3.2.1`
-- Run by entering BlackJack.rb into the terminal
+- Run by entering ```BlackJack.rb``` into the terminal
